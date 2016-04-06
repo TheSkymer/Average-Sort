@@ -1,0 +1,15 @@
+Python Average Sort
+
+===================
+
+Algoritmo di ordinamento che sfrutta
+un simple procedimento sul calcolo del valore medio
+di una lista la quale è divisa in due diverse liste:
+- la prima con i valori minori del valore medio
+- la seconda con i valori maggiori del valore medio
+questo procedimento è ripetuto più volte per via ricorsiva
+
+
+
+(c) Andrea Toccaceli
+Licenza GPL
